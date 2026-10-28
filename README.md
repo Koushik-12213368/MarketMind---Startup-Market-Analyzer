@@ -1,6 +1,4 @@
 # Startup Market Analyzer 
-# Project Group 12
-Members: Akash, Anveshna
 
 Hey! This is our big data capstone project where we built a distributed system to analyze startup data and help people make smarter business decisions.
 
